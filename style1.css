@@ -1,0 +1,76 @@
+.slider{
+    display: inline-block;
+    background: rgb(243, 183, 53);   
+    color: #000;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+h2 {
+    background-color: #000;
+    color: rgb(243, 183, 53);
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+}
+
+.gridview, .card-body {
+    background: #000; 
+    color: rgb(243, 183, 53);
+}
+.gridview h1{
+    padding: 50px;
+}
+
+.col img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+/* h3 {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 5px;
+  width: 300px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.valid{
+  text-align: center;
+  padding: 10px;
+  margin: 5px 5px;
+  font-size: 20px;
+} */
+
+footer{
+    background-color: #232323;
+    height: 50px;
+}
+.font-icon{
+      padding: 10px;
+}
+.credit-logo{
+    padding: 10px;
+    margin-left: 10px;
+}
+.footspan{
+    color: #9f9f9f;
+    line-height: 20px;
+}
+
+.btn{
+    color: #000 !important;
+    background: rgb(243, 183, 53) !important;
+}
+
+.btn:hover{
+    color: rgb(243, 183, 53) !important;
+    background: #000 !important;
+}
